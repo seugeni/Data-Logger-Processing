@@ -1,0 +1,10 @@
+10174477: side stream waterfall harvey intake, just above culvert 
+10246300: on top of shed, harvey intake. air pressure   (weir at 317.385 m)
+2451071: magnesia DR  (M-DR) Magnesia Debris Retention Structure (just above last natural flow control above structure)
+
+In files with water depth, pressure compensation is applied from 10246300, with following options:
+-Hold constant first recorded pressure if compensation pressure series started later than water pressure series
+-Calculate density based on temperature, assuming fresh water
+-Apply pressure compensation based on sensor
+
+Elevations should be verified. 

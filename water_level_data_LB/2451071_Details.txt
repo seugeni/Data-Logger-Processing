@@ -1,0 +1,192 @@
+﻿Details
+Series: Abs Pres, kPa
+	Devices
+		Device Info
+			• Product: HOBO U20-001-04 Water Level
+			• Serial Number: 2451071
+			• Version Number: 0.00
+			• Manufacturer: Onset Computer Corporation
+			• Device Memory: 65536
+			• Header Created: 05/19/16 04:00:57 GMT-07:00 PM
+			• Calibration Date: 10/20/09 08:58:03 GMT-07:00 AM
+	Deployment Info
+		• Full Series Name: Absolute Pressure, kPa
+		• Launch Name: 2451071
+		• Deployment Number: 6
+		• Launch Time: 07/23/20 08:34:18 GMT-07:00 PM
+		• Logging Interval: 00 Hr 10 Min 00 Sec
+		• Launch GMT Offset: -7 Hr 0 Min
+		• Battery at Launch: 3.46 Volts
+		• Launching Program: HOBOware Pro-3.7.10_1206_1604_Windows
+	Series Statistics
+		• Samples: 9,943
+		• Max: 106.652
+		• Min: 98.001
+		• Avg: 104.695
+		• Std Dev (σ): 0.590
+		• First Sample Time: 07/24/20 10:00:00 GMT-07:00 AM
+		• Last Sample Time: 10/01/20 11:00:00 GMT-07:00 AM
+Series: Temp, °C
+	Devices
+		Device Info
+			• Product: HOBO U20-001-04 Water Level
+			• Serial Number: 2451071
+			• Version Number: 0.00
+			• Manufacturer: Onset Computer Corporation
+			• Device Memory: 65536
+			• Header Created: 05/19/16 04:00:57 GMT-07:00 PM
+			• Calibration Date: 10/20/09 08:58:03 GMT-07:00 AM
+	Deployment Info
+		• Full Series Name: Temperature, °C
+		• Launch Name: 2451071
+		• Deployment Number: 6
+		• Launch Time: 07/23/20 08:34:18 GMT-07:00 PM
+		• Logging Interval: 00 Hr 10 Min 00 Sec
+		• Launch GMT Offset: -7 Hr 0 Min
+		• Battery at Launch: 3.46 Volts
+		• Launching Program: HOBOware Pro-3.7.10_1206_1604_Windows
+	Series Statistics
+		• Samples: 9,943
+		• Max: 30.054
+		• Min: 9.866
+		• Avg: 13.391
+		• Std Dev (σ): 1.344
+		• First Sample Time: 07/24/20 10:00:00 GMT-07:00 AM
+		• Last Sample Time: 10/01/20 11:00:00 GMT-07:00 AM
+Series: Abs Pres Barom., kPa
+	Devices
+		Device Info
+			• Product: HOBO U20-001-04 Water Level
+			• Serial Number: 10246300
+			• Version Number: 1.13
+			• Manufacturer: Onset Computer Corporation
+			• Device Memory: 65536
+			• Header Created: 11/09/12 11:38:05 GMT-07:00 AM
+			• Calibration Date: 11/09/12 11:29:59 GMT-07:00 AM
+	Deployment Info
+		• Full Series Name: Absolute Pressure Barom., kPa
+		• Launch Name: 10246300
+		• Deployment Number: 8
+		• Launch Time: 07/24/20 12:38:06 GMT-07:00 PM
+		• Logging Interval: 00 Hr 30 Min 00 Sec
+		• Launch GMT Offset: -7 Hr 0 Min
+		• Battery at Launch: 3.48 Volts
+		• Launching Program: HOBOware Pro-3.7.10_1206_1604_Windows
+	Series Statistics
+		• Samples: 3,315
+		• Max: 99.697
+		• Min: 96.543
+		• Avg: 98.203
+		• Std Dev (σ): 0.467
+		• First Sample Time: 07/24/20 01:00:00 GMT-07:00 PM
+		• Last Sample Time: 10/01/20 02:00:00 GMT-07:00 PM
+Series: Sensor Depth, meters
+	Devices
+		Device Info
+			• Product: HOBO U20-001-04 Water Level
+			• Serial Number: 2451071
+			• Version Number: 0.00
+			• Manufacturer: Onset Computer Corporation
+			• Device Memory: 65536
+			• Header Created: 05/19/16 04:00:57 GMT-07:00 PM
+			• Calibration Date: 10/20/09 08:58:03 GMT-07:00 AM
+	Deployment Info
+		• Full Series Name: Sensor Depth, meters
+		• Launch Name: 2451071
+		• Deployment Number: 6
+		• Launch Time: 07/23/20 08:34:18 GMT-07:00 PM
+		• Logging Interval: 00 Hr 10 Min 00 Sec
+		• Launch GMT Offset: -7 Hr 0 Min
+		• Battery at Launch: 3.46 Volts
+		• Launching Program: HOBOware Pro-3.7.10_1206_1604_Windows
+	Series Statistics
+		• Samples: 9,943
+		• Max: 0.975
+		• Min: -0.014
+		• Avg: 0.663
+		• Std Dev (σ): 0.049
+		• First Sample Time: 07/24/20 10:00:00 GMT-07:00 AM
+		• Last Sample Time: 10/01/20 11:00:00 GMT-07:00 AM
+	Barometric Compensation Parameters
+		• Fluid Density: Derived from Temp. Channel
+		• Barometric Datafile: G:\HOBOware\10246300.hobo
+Event Type: Coupler Detached
+	Devices
+		Device Info
+			• Product: HOBO U20-001-04 Water Level
+			• Serial Number: 2451071
+			• Version Number: 0.00
+			• Manufacturer: Onset Computer Corporation
+			• Device Memory: 65536
+			• Header Created: 05/19/16 04:00:57 GMT-07:00 PM
+	Deployment Info
+		• Full Series Name: Coupler Detached
+		• Launch Name: 2451071
+		• Deployment Number: 6
+		• Launch Time: 07/23/20 08:34:18 GMT-07:00 PM
+		• Launch GMT Offset: -7 Hr 0 Min
+		• Battery at Launch: 3.46 Volts
+	Series Statistics
+		• Samples: 1
+		• First Sample Time: 07/24/20 10:00:00 GMT-07:00 AM
+		• Last Sample Time: 07/24/20 10:00:00 GMT-07:00 AM
+Event Type: Coupler Attached
+	Devices
+		Device Info
+			• Product: HOBO U20-001-04 Water Level
+			• Serial Number: 2451071
+			• Version Number: 0.00
+			• Manufacturer: Onset Computer Corporation
+			• Device Memory: 65536
+			• Header Created: 05/19/16 04:00:57 GMT-07:00 PM
+	Deployment Info
+		• Full Series Name: Coupler Attached
+		• Launch Name: 2451071
+		• Deployment Number: 6
+		• Launch Time: 07/23/20 08:34:18 GMT-07:00 PM
+		• Launch GMT Offset: -7 Hr 0 Min
+		• Battery at Launch: 3.46 Volts
+	Series Statistics
+		• Samples: 1
+		• First Sample Time: 10/01/20 11:05:18 GMT-07:00 AM
+		• Last Sample Time: 10/01/20 11:05:18 GMT-07:00 AM
+Event Type: Host Connected
+	Devices
+		Device Info
+			• Product: HOBO U20-001-04 Water Level
+			• Serial Number: 2451071
+			• Version Number: 0.00
+			• Manufacturer: Onset Computer Corporation
+			• Device Memory: 65536
+			• Header Created: 05/19/16 04:00:57 GMT-07:00 PM
+	Deployment Info
+		• Full Series Name: Host Connected
+		• Launch Name: 2451071
+		• Deployment Number: 6
+		• Launch Time: 07/23/20 08:34:18 GMT-07:00 PM
+		• Launch GMT Offset: -7 Hr 0 Min
+		• Battery at Launch: 3.46 Volts
+	Series Statistics
+		• Samples: 1
+		• First Sample Time: 10/01/20 11:05:22 GMT-07:00 AM
+		• Last Sample Time: 10/01/20 11:05:22 GMT-07:00 AM
+Event Type: End Of File
+	Devices
+		Device Info
+			• Product: HOBO U20-001-04 Water Level
+			• Serial Number: 2451071
+			• Version Number: 0.00
+			• Manufacturer: Onset Computer Corporation
+			• Device Memory: 65536
+			• Header Created: 05/19/16 04:00:57 GMT-07:00 PM
+	Deployment Info
+		• Full Series Name: End Of File
+		• Launch Name: 2451071
+		• Deployment Number: 6
+		• Launch Time: 07/23/20 08:34:18 GMT-07:00 PM
+		• Launch GMT Offset: -7 Hr 0 Min
+		• Battery at Launch: 3.46 Volts
+	Series Statistics
+		• Samples: 1
+		• First Sample Time: 10/01/20 11:05:22 GMT-07:00 AM
+		• Last Sample Time: 10/01/20 11:05:22 GMT-07:00 AM
